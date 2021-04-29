@@ -1,0 +1,4 @@
+﻿  Customer.cpp
+C:\Users\MarefkeTyler\source\repos\C++\ProgrammingProblem--RPS4\ProgrammingProblem--RPS4\Customer.cpp(39,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MarefkeTyler\source\repos\C++\ProgrammingProblem--RPS4\ProgrammingProblem--RPS4\Customer.cpp(44,21): warning C4018: '<': signed/unsigned mismatch
+  ProgrammingProblem--RPS4.vcxproj -> C:\Users\MarefkeTyler\source\repos\C++\ProgrammingProblem--RPS4\Debug\ProgrammingProblem--RPS4.exe
