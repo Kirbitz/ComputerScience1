@@ -1,0 +1,8 @@
+﻿  PP1.cpp
+C:\Users\MarefkeTyler\source\repos\ProgrammingProblem--RPS\ProgrammingProblem--RPS\PP1.cpp(31,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\MarefkeTyler\source\repos\ProgrammingProblem--RPS\ProgrammingProblem--RPS\PP1.cpp(46,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\MarefkeTyler\source\repos\ProgrammingProblem--RPS\ProgrammingProblem--RPS\PP1.cpp(70,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\MarefkeTyler\source\repos\ProgrammingProblem--RPS\ProgrammingProblem--RPS\PP1.cpp(190,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\MarefkeTyler\source\repos\ProgrammingProblem--RPS\ProgrammingProblem--RPS\PP1.cpp(209,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\MarefkeTyler\source\repos\ProgrammingProblem--RPS\ProgrammingProblem--RPS\PP1.cpp(17,6): warning C4101:  'userAns': unreferenced local variable
+  ProgrammingProblem--RPS.vcxproj -> C:\Users\MarefkeTyler\source\repos\ProgrammingProblem--RPS\Debug\ProgrammingProblem--RPS.exe
